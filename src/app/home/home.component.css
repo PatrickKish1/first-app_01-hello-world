@@ -21,6 +21,7 @@ button {
   border: solid 1px var(--primary-color);
   background: var(--primary-color);
   color: white;
+  cursor: pointer;
   border-radius: 8px;
 }
 
